@@ -1,0 +1,8 @@
+{
+  "name": "Priyanka Chhabra Portfolio",
+  "description": "Professional portfolio website for Priyanka Chhabra (glambypriyannka), featuring a premium photography gallery, course details, client testimonials, biography, and a contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
