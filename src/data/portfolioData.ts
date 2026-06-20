@@ -77,7 +77,7 @@ export const portfolioData: PortfolioData = {
     name: "Nirali Patel",
     title: "Makeup & Hairstyle Artist",
     bioPhrase: "Creating timeless makeup looks, sophisticated hairstyles, and inspiring the next generation of beauty artists through professional education and artistry.",
-    whatsappLink: "wa.me/message/7HX4WYKD2WEDB1"
+    whatsappLink: "https://wa.me/message/7HX4WYKD2WEDB1", // From Instagram screenshots
     location: "Kathodra, Surat",
     // Premium, high-quality makeup artist portrait url
     profileImage: "https://i.ibb.co/Lb8PdBS/Chat-GPT-Image-Jun-19-2026-03-10-32-PM.png"
@@ -211,7 +211,7 @@ export const portfolioData: PortfolioData = {
       id: "look-7",
       title: "Student Practical Exam: Classic Wing",
       category: "student",
-      imageUrl: "https://i.ibb.co/JRVV0cBV/0bdd71da-1623-4aa5-ba9b-4a77895f44e7.png",
+      imageUrl: "https://i.ibb.co/XrxSDjj5/15f812b8-e964-47da-a2be-1cf95515248c.png",
       description: "A beautifully executed winged graphic layout and clean glowing finish delivered independently by a student under Priyanka's strict personal evaluation."
     },
     {
