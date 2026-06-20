@@ -29,7 +29,7 @@ export default function Footer() {
           {/* Logo & localized credit lines */}
           <div className="space-y-1">
             <span className="font-serif text-lg tracking-widest uppercase text-white block">
-              Priyanka Chhabra
+              Nirali Patel
             </span>
             <p className="text-[11px] text-white/50 font-sans leading-relaxed">
               Timeless Bridal Artistry & Academy Certifications based in {profile.location}.
