@@ -77,7 +77,7 @@ export const portfolioData: PortfolioData = {
     name: "Nirali Patel",
     title: "Makeup & Hairstyle Artist",
     bioPhrase: "Creating timeless makeup looks, sophisticated hairstyles, and inspiring the next generation of beauty artists through professional education and artistry.",
-    whatsappLink: "https://wa.me/message/ATCOGAZDW7NNF1", // From Instagram screenshots
+    whatsappLink: "wa.me/message/7HX4WYKD2WEDB1"
     location: "Kathodra, Surat",
     // Premium, high-quality makeup artist portrait url
     profileImage: "https://i.ibb.co/Lb8PdBS/Chat-GPT-Image-Jun-19-2026-03-10-32-PM.png"
